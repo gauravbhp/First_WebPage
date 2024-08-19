@@ -39,6 +39,11 @@ html,body{
     border-radius: 15px;
     overflow: hidden;
 }
+@media screen and (max-width: 768px) {
+    .Gaurav_img{
+        width: 120px;
+    }
+}
 
 .default{
     text-transform: uppercase;
